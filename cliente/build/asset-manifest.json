@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5912501c.css",
+    "main.js": "./static/js/main.6e383df4.js",
+    "static/js/703.6ab3e922.chunk.js": "./static/js/703.6ab3e922.chunk.js",
+    "static/js/513.602ab010.chunk.js": "./static/js/513.602ab010.chunk.js",
+    "static/js/787.506dd8ed.chunk.js": "./static/js/787.506dd8ed.chunk.js",
+    "static/media/CASADECULTURA.png": "./static/media/CASADECULTURA.db16bec3317fb2676558.png",
+    "index.html": "./index.html",
+    "main.5912501c.css.map": "./static/css/main.5912501c.css.map",
+    "main.6e383df4.js.map": "./static/js/main.6e383df4.js.map",
+    "703.6ab3e922.chunk.js.map": "./static/js/703.6ab3e922.chunk.js.map",
+    "513.602ab010.chunk.js.map": "./static/js/513.602ab010.chunk.js.map",
+    "787.506dd8ed.chunk.js.map": "./static/js/787.506dd8ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5912501c.css",
+    "static/js/main.6e383df4.js"
+  ]
+}

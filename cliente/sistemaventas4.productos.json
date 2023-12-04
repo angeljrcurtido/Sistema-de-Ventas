@@ -1,0 +1,723 @@
+[{
+  "_id": {
+    "$oid": "6521b75fa4b558a12ea60638"
+  },
+  "codigo": "7840036008952",
+  "categoria": "pastillas",
+  "producto": "Prednicort por tira",
+  "fechadevencimiento": "",
+  "descripcion": "Prednisona 20 mg",
+  "imagen": "",
+  "preciocompra": 8000,
+  "precioventa": 15000,
+  "stock": 14,
+  "__v": 0,
+  "lotenumero": 1
+},
+{
+  "_id": {
+    "$oid": "6521b7b6a4b558a12ea6063b"
+  },
+  "codigo": "7840036008389",
+  "categoria": "pastillas",
+  "producto": "Prednicort 50mg por tira ",
+  "fechadevencimiento": "",
+  "descripcion": "Prednisona de 50 mg",
+  "imagen": "",
+  "preciocompra": 13000,
+  "precioventa": 20000,
+  "stock": 10,
+  "__v": 0,
+  " lotenumero": 1
+},
+{
+  "_id": {
+    "$oid": "6521b7f4a4b558a12ea6063e"
+  },
+  "codigo": "7840199025766",
+  "categoria": "pastillas",
+  "producto": "Prednilasca 5mg",
+  "fechadevencimiento": "",
+  "descripcion": "Prednisona 5mg",
+  "imagen": "",
+  "preciocompra": 7000,
+  "precioventa": 12000,
+  "stock": 4,
+  "__v": 0,
+  " lotenumero": 1
+},
+{
+  "_id": {
+    "$oid": "6521b857a4b558a12ea60641"
+  },
+  "codigo": "7840653004856",
+  "categoria": "pastillas",
+  "producto": "Penbronk 20mg",
+  "fechadevencimiento": "",
+  "descripcion": "Prednisona 20 mg",
+  "imagen": "",
+  "preciocompra": 20000,
+  "precioventa": 35000,
+  "stock": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521b922a4b558a12ea60644"
+  },
+  "codigo": "7840653004474",
+  "categoria": "pastillas",
+  "producto": "Penbronk 50 mg",
+  "fechadevencimiento": "2024-03-01",
+  "descripcion": "Prednisona 50 mg",
+  "imagen": "",
+  "preciocompra": 15000,
+  "precioventa": 30000,
+  "stock": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521b9a4a4b558a12ea6064c"
+  },
+  "codigo": "7840199029078",
+  "categoria": "pastillas",
+  "producto": "Colesol",
+  "fechadevencimiento": "",
+  "descripcion": "Prednisona 50 mg",
+  "imagen": "",
+  "preciocompra": 15000,
+  "precioventa": 28000,
+  "stock": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521ba94a4b558a12ea60657"
+  },
+  "codigo": "7840199087788",
+  "categoria": "pastillas",
+  "producto": "Avir 800",
+  "fechadevencimiento": "",
+  "descripcion": "Aciclovir 800 mg",
+  "imagen": "",
+  "preciocompra": 25000,
+  "precioventa": 50000,
+  "stock": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521bbf5a4b558a12ea6065e"
+  },
+  "codigo": "7840653005792",
+  "categoria": "pastillas",
+  "producto": "Trinaler 800",
+  "fechadevencimiento": "",
+  "descripcion": "Aciclovir 800 mg",
+  "imagen": "",
+  "preciocompra": 30000,
+  "precioventa": 50000,
+  "stock": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521bc5fa4b558a12ea60661"
+  },
+  "codigo": "7840653005648",
+  "categoria": "pastillas",
+  "producto": "Trinaler 400",
+  "fechadevencimiento": "2024-03-01",
+  "descripcion": "Aciclovir 400 mg",
+  "imagen": "",
+  "preciocompra": 35000,
+  "precioventa": 75000,
+  "stock": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521bcb4a4b558a12ea60667"
+  },
+  "codigo": "7840282034118",
+  "categoria": "pastillas",
+  "producto": "Vidermina 400",
+  "fechadevencimiento": "",
+  "descripcion": "Aciclovir 400 mg",
+  "imagen": "",
+  "preciocompra": 35000,
+  "precioventa": 71000,
+  "stock": 7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521bdf5a4b558a12ea60674"
+  },
+  "codigo": "7840282034415",
+  "categoria": "Jarabe",
+  "producto": "Vidermina",
+  "fechadevencimiento": "",
+  "descripcion": "Aciclovir 200 mg",
+  "imagen": "",
+  "preciocompra": 20000,
+  "precioventa": 40000,
+  "stock": 14,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521be47a4b558a12ea60677"
+  },
+  "codigo": "7842568000060",
+  "categoria": "Jarabe",
+  "producto": "Aciclor 400",
+  "fechadevencimiento": "",
+  "descripcion": "Aciclovir 400 mg/5ml ",
+  "imagen": "",
+  "preciocompra": 24000,
+  "precioventa": 69000,
+  "stock": 24,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521beb9a4b558a12ea6067a"
+  },
+  "codigo": "7840282034392",
+  "categoria": "Jarabe",
+  "producto": "Vidermina 400",
+  "fechadevencimiento": "",
+  "descripcion": "Aciclovir 400 mg",
+  "imagen": "",
+  "preciocompra": 35000,
+  "precioventa": 65000,
+  "stock": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c4daa4b558a12ea60688"
+  },
+  "codigo": "7840282037218",
+  "categoria": "Universal",
+  "producto": "Anginomed",
+  "fechadevencimiento": "",
+  "descripcion": "NEOMICINA",
+  "imagen": "",
+  "preciocompra": 25000,
+  "precioventa": 40000,
+  "stock": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c59da4b558a12ea6068b"
+  },
+  "codigo": "7840653001817",
+  "categoria": "Jarabe",
+  "producto": "MICAD",
+  "fechadevencimiento": "",
+  "descripcion": "NISTATINA",
+  "imagen": "",
+  "preciocompra": 20000,
+  "precioventa": 35000,
+  "stock": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c610a4b558a12ea6068e"
+  },
+  "codigo": "7800060015678",
+  "categoria": "remedios",
+  "producto": "TRIO VAL GTS",
+  "fechadevencimiento": "",
+  "descripcion": "TRIOVAL GTS",
+  "imagen": "",
+  "preciocompra": 30000,
+  "precioventa": 50000,
+  "stock": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c662a4b558a12ea60691"
+  },
+  "codigo": "7800060015685",
+  "categoria": "Jarabe",
+  "producto": "TRIO VAL JBE",
+  "fechadevencimiento": "",
+  "descripcion": "Trio val",
+  "imagen": "",
+  "preciocompra": 40000,
+  "precioventa": 55000,
+  "stock": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c6cea4b558a12ea60694"
+  },
+  "codigo": "7840199099798",
+  "categoria": "Jarabe",
+  "producto": "Gripatol jbe",
+  "fechadevencimiento": "",
+  "descripcion": "gripatol",
+  "imagen": "",
+  "preciocompra": 15000,
+  "precioventa": 30000,
+  "stock": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c6e7a4b558a12ea60697"
+  },
+  "codigo": "7841448000213",
+  "categoria": "",
+  "producto": "gr",
+  "fechadevencimiento": "",
+  "descripcion": "",
+  "imagen": "",
+  "preciocompra": null,
+  "precioventa": null,
+  "stock": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c6e8a4b558a12ea6069a"
+  },
+  "codigo": "",
+  "categoria": "",
+  "producto": "",
+  "fechadevencimiento": "",
+  "descripcion": "",
+  "imagen": "",
+  "preciocompra": null,
+  "precioventa": null,
+  "stock": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c770a4b558a12ea6069d"
+  },
+  "codigo": "7841448000213",
+  "categoria": "Jarabe",
+  "producto": "Gripidol cpto",
+  "fechadevencimiento": "",
+  "descripcion": "gripidol",
+  "imagen": "",
+  "preciocompra": 17000,
+  "precioventa": 35000,
+  "stock": 15,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c7c5a4b558a12ea606a0"
+  },
+  "codigo": "7840036103282",
+  "categoria": "Jarabe",
+  "producto": "Salve grip mita,i",
+  "fechadevencimiento": "",
+  "descripcion": "salve grip",
+  "imagen": "",
+  "preciocompra": 20000,
+  "precioventa": 35000,
+  "stock": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c812a4b558a12ea606a3"
+  },
+  "codigo": "7840653008557",
+  "categoria": "",
+  "producto": "GRI",
+  "fechadevencimiento": "",
+  "descripcion": "",
+  "imagen": "",
+  "preciocompra": null,
+  "precioventa": null,
+  "stock": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c81da4b558a12ea606a6"
+  },
+  "codigo": "",
+  "categoria": "",
+  "producto": "784065300855",
+  "fechadevencimiento": "",
+  "descripcion": "",
+  "imagen": "",
+  "preciocompra": null,
+  "precioventa": null,
+  "stock": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c876a4b558a12ea606a9"
+  },
+  "codigo": "7840653008557",
+  "categoria": "pastillas",
+  "producto": "grifantil x tira",
+  "fechadevencimiento": "",
+  "descripcion": "grifantil",
+  "imagen": "",
+  "preciocompra": 3000,
+  "precioventa": 10000,
+  "stock": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c92fa4b558a12ea606ac"
+  },
+  "codigo": "7840653007413",
+  "categoria": "Jarabe",
+  "producto": "GRIFANTIL JBE",
+  "fechadevencimiento": "",
+  "descripcion": "grifantil",
+  "imagen": "",
+  "preciocompra": 10000,
+  "precioventa": 20000,
+  "stock": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521c985a4b558a12ea606af"
+  },
+  "codigo": "7840274000046",
+  "categoria": "Jarabe",
+  "producto": "Angripas plus jbe",
+  "fechadevencimiento": "",
+  "descripcion": "angripas",
+  "imagen": "",
+  "preciocompra": 20000,
+  "precioventa": 37000,
+  "stock": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521ca2fa4b558a12ea606b2"
+  },
+  "codigo": "7840282034293",
+  "categoria": "remedios",
+  "producto": "GRIFINIL GTS",
+  "fechadevencimiento": "",
+  "descripcion": "GRIFINIL",
+  "imagen": "",
+  "preciocompra": 8000,
+  "precioventa": 15000,
+  "stock": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521ca7ca4b558a12ea606b5"
+  },
+  "codigo": "7841106003723",
+  "categoria": "Jarabe",
+  "producto": "ACEMUK GRIP",
+  "fechadevencimiento": "",
+  "descripcion": "ACEMUK JBE",
+  "imagen": "",
+  "preciocompra": 22000,
+  "precioventa": 40000,
+  "stock": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521caf2a4b558a12ea606b8"
+  },
+  "codigo": "7841106001286",
+  "categoria": "Jarabe",
+  "producto": "PECTOS PLUS JBE",
+  "fechadevencimiento": "",
+  "descripcion": "Pectos jbe",
+  "imagen": "",
+  "preciocompra": 24000,
+  "precioventa": 45000,
+  "stock": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521cb50a4b558a12ea606bb"
+  },
+  "codigo": "7840282034088",
+  "categoria": "Jarabe",
+  "producto": "GRIFINIL JBE",
+  "fechadevencimiento": "",
+  "descripcion": "GRIFINIL",
+  "imagen": "",
+  "preciocompra": 15000,
+  "precioventa": 30000,
+  "stock": 19,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521cbada4b558a12ea606be"
+  },
+  "codigo": "7840653001350",
+  "categoria": "Jarabe",
+  "producto": "ACELIN JBE",
+  "fechadevencimiento": "",
+  "descripcion": "ACELIN",
+  "imagen": "",
+  "preciocompra": 20000,
+  "precioventa": 35000,
+  "stock": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521cbf4a4b558a12ea606c1"
+  },
+  "codigo": "7840653000605",
+  "categoria": "remedios",
+  "producto": "ACELIN GTS",
+  "fechadevencimiento": "",
+  "descripcion": "ACELIN",
+  "imagen": "",
+  "preciocompra": 22000,
+  "precioventa": 40000,
+  "stock": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521cc5da4b558a12ea606c4"
+  },
+  "codigo": "7841134001623",
+  "categoria": "remedios",
+  "producto": "ZATIFEN GRIP GTS",
+  "fechadevencimiento": "",
+  "descripcion": "ZATIFEN GTS",
+  "imagen": "",
+  "preciocompra": 23000,
+  "precioventa": 45000,
+  "stock": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521ccbda4b558a12ea606c7"
+  },
+  "codigo": "7841134001630",
+  "categoria": "Jarabe",
+  "producto": "ZATIFEN GRIP JBE",
+  "fechadevencimiento": "",
+  "descripcion": "ZATIFENJBE",
+  "imagen": "",
+  "preciocompra": 29000,
+  "precioventa": 45000,
+  "stock": 15,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521cd3da4b558a12ea606ca"
+  },
+  "codigo": "611723",
+  "categoria": "Jarabe",
+  "producto": "BRONDIL PTO JBE",
+  "fechadevencimiento": "",
+  "descripcion": "BRONDIL",
+  "imagen": "",
+  "preciocompra": 15000,
+  "precioventa": 30000,
+  "stock": 14,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521cd90a4b558a12ea606cd"
+  },
+  "codigo": "7842568000169",
+  "categoria": "Jarabe",
+  "producto": "NESTIFLU JBE",
+  "fechadevencimiento": "",
+  "descripcion": "NESTIFLU",
+  "imagen": "",
+  "preciocompra": 11000,
+  "precioventa": 35000,
+  "stock": 51,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521cdeba4b558a12ea606d0"
+  },
+  "codigo": "7840282031094",
+  "categoria": "Jarabe",
+  "producto": "COROGRIP JBE",
+  "fechadevencimiento": "2024-01-01",
+  "descripcion": "CORIGRIP",
+  "imagen": "",
+  "preciocompra": 15000,
+  "precioventa": 30000,
+  "stock": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521ce8aa4b558a12ea606d3"
+  },
+  "codigo": "7840653004504",
+  "categoria": "Jarabe",
+  "producto": "CORTAGRIP JBE",
+  "fechadevencimiento": "0001-01-01",
+  "descripcion": "CORTAGRIP JBE",
+  "imagen": "",
+  "preciocompra": 22000,
+  "precioventa": 40000,
+  "stock": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521cecda4b558a12ea606d6"
+  },
+  "codigo": "7840199080383",
+  "categoria": "Jarabe",
+  "producto": "BIOGRIP JBE",
+  "fechadevencimiento": "0001-01-01",
+  "descripcion": "BIOGRIP",
+  "imagen": "",
+  "preciocompra": 15000,
+  "precioventa": 30000,
+  "stock": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521cf23a4b558a12ea606d9"
+  },
+  "codigo": "7840036009867",
+  "categoria": "Jarabe",
+  "producto": "FINIDOL GRIP",
+  "fechadevencimiento": "0001-01-01",
+  "descripcion": "FINIDOL GRIP JBE",
+  "imagen": "",
+  "preciocompra": 25000,
+  "precioventa": 40000,
+  "stock": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521cf7ba4b558a12ea606dc"
+  },
+  "codigo": "7841448000077",
+  "categoria": "Jarabe",
+  "producto": "GALENTOS JBE",
+  "fechadevencimiento": "0001-01-01",
+  "descripcion": "GALENTOS",
+  "imagen": "",
+  "preciocompra": 13000,
+  "precioventa": 35000,
+  "stock": 45,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521cfd8a4b558a12ea606df"
+  },
+  "codigo": "7841467000263",
+  "categoria": "Jarabe",
+  "producto": "BROMHEXINA 4MG JBE",
+  "fechadevencimiento": "0001-01-01",
+  "descripcion": "BROMHEXINA",
+  "imagen": "",
+  "preciocompra": 20000,
+  "precioventa": 35000,
+  "stock": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521d034a4b558a12ea606e2"
+  },
+  "codigo": "7840199088082",
+  "categoria": "Jarabe",
+  "producto": "KITADOL GRIP JBE",
+  "fechadevencimiento": "0001-01-01",
+  "descripcion": "KITADOL GRIP JBE",
+  "imagen": "",
+  "preciocompra": 15000,
+  "precioventa": 30000,
+  "stock": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521d087a4b558a12ea606e5"
+  },
+  "codigo": "7800060009738",
+  "categoria": "Jarabe",
+  "producto": "MUXOL PED",
+  "fechadevencimiento": "0001-01-01",
+  "descripcion": "MUXOL PED",
+  "imagen": "",
+  "preciocompra": 40000,
+  "precioventa": 55000,
+  "stock": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521d0b9a4b558a12ea606e8"
+  },
+  "codigo": "7800060009684",
+  "categoria": "Jarabe",
+  "producto": "MUXOL ADULTO",
+  "fechadevencimiento": "0001-01-01",
+  "descripcion": "MUXOL ADULTO",
+  "imagen": "",
+  "preciocompra": 45000,
+  "precioventa": 60000,
+  "stock": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521d0fda4b558a12ea606eb"
+  },
+  "codigo": "7795304085541",
+  "categoria": "Jarabe",
+  "producto": "BISOLVON PED",
+  "fechadevencimiento": "0001-01-01",
+  "descripcion": "BISOLVON PED",
+  "imagen": "",
+  "preciocompra": 40000,
+  "precioventa": 50000,
+  "stock": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6521d148a4b558a12ea606ee"
+  },
+  "codigo": "3664798040593",
+  "categoria": "Jarabe",
+  "producto": "BISOLVON ADULTO",
+  "fechadevencimiento": "0001-01-01",
+  "descripcion": "BISOLVON AD",
+  "imagen": "",
+  "preciocompra": 35000,
+  "precioventa": 50000,
+  "stock": 3,
+  "__v": 0
+}]
